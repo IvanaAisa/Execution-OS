@@ -1,20 +1,29 @@
-# Execution-OS
+# Execution OS
 
-Este proyecto acepta contribuciones en español e inglés.
-This project accepts contributions in Spanish and English.
+Execution OS is a cognitive execution system designed to turn complex goals into small, actionable steps that can be completed in minutes.
 
--------------- SPANISH - ESPAÑOL
+Instead of overwhelming users with large plans and abstract productivity advice, Execution OS focuses on a single principle:
+**consistent progress through extremely small actions.**
 
-EXECUTION OS no es una app de hábitos común, es un sistema que convierte metas grandes en micro-acciones inevitables. De proyectos enormes que toman meses o años a tareas que puedes realizar en 5 minutos y avanzar de forma fluida y fácil.
+Many ambitious students and professionals struggle not because they lack ideas or intelligence, but because large goals create friction and paralysis. Execution OS reduces this friction by breaking projects into structured, adaptive micro-tasks that guide users from concept to real outcomes.
 
-Pasa de procrastinar a actuar de una vez.
+## Who is this for?
 
-¿Tienes un proyecto gigantezco pero te abruma no saber por donde empezar o todo el trabajo que tienes por delante...? Execution OS es un proyecvto que he hecho para mí misma, una persona ambiciosa y con ganas de hacer muchas cosas pero cuya procrastinación no le deja avanzar... Si eres como yo, sobre todo un estudiante de STEM ambicioso, este proyecto es para ti. Por el momento el proyecto se encuentra cerrado porque está en fase de desarrollo, pero si te gustaría contribuir o aportar ideas puedes enviarme un correo a ivana.aisasan@gmail.com 
+* Ambitious STEM students
+* Engineers and developers
+* Researchers and builders
+* Anyone who wants to create meaningful projects but struggles with execution
 
--------------- ENGLISH - INGLÉS
+## How it works
 
-EXECUTION OS is not a common application habits, it is a system that turns big goals into inevitable micro-actions. From huge projects that take months or years to tasks that you can complete in 5 minutes and move forward fluidly and easily.
+1. The user defines a goal or project.
+2. The system generates a structured roadmap.
+3. The roadmap is decomposed into micro-tasks designed to take around five minutes.
+4. Tasks adapt based on progress and user behavior.
+5. The focus is on real skill development and completed projects.
 
-Go from procrastinating to acting at once.
+Execution OS is currently in an early development stage. The core platform is private while we validate the concept and build the first version.
 
-Do you have a gigantic project but you are overwhelmed by not knowing where to start or because of all the work you have ahead of you...? Execution OS is a project that I have done for myself, an ambitious person who wants to do many things but whose procrastination does not allow to move forward... If you are like me, especially an ambitious STEM student, this project is for you. At the moment the project is closed since it's in the development phase, but if you would like to contribute or provide ideas you can send me an email to ivana.aisasan@gmail.com
+We welcome feedback, ideas, and future collaboration.
+If you are interested in contributing or testing early versions, please contact:
+[ivana.aisasan@gmail.com](mailto:ivana.aisasan@gmail.com)
