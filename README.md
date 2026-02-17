@@ -27,3 +27,5 @@ Execution OS is currently in an early development stage. The core platform is pr
 We welcome feedback, ideas, and future collaboration.
 If you are interested in contributing or testing early versions, please contact:
 [ivana.aisasan@gmail.com](mailto:ivana.aisasan@gmail.com)
+
+Contributions in Spanish or English are both accepted.
